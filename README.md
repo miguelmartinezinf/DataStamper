@@ -2,16 +2,17 @@
 
 DataStamper is a web application which provides a panel control to manage your data. It extracts data from an external web service and store it in an ethereum private network.
 
-## What is this
+### What is this
 
 DataStamper is the result of my Bachelor Thesis, entitled "Using Blockchains as an Information Storage".
 
+
 Author:		Miguel Martinez Arias
 
-Working on: 	Technology University of Brno (CZ)
+Working at: 	Technology University of Brno (CZ)
 
 
-## What is happening here
+### What is happening here
 
 * Java Web Application Development
 * Ethereum Smart Contract Development using Solidity
@@ -19,7 +20,7 @@ Working on: 	Technology University of Brno (CZ)
 * Rest API WebService Interaction
 
 
-## Work in progress
+### Work in progress
 
 Start Date:		27th February 2018
 
