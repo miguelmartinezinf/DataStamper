@@ -1,0 +1,28 @@
+
+
+# Java class files
+*.class
+
+# Java config files
+StampingData/build.xml
+build.xml
+StampingData/nbactions.xml
+nbactions.xml
+StampingData/nb-configuration.xml
+nb-configuration.xml
+
+# Build files
+nbproject/
+StampingData/nbproject/
+build/
+StampingData/build/
+nbbuild/
+StampingData/dist/
+dist/
+StampingData/nbdist/
+nbdist/
+
+# Built packages
+*.jar
+*.war
+*.ear
